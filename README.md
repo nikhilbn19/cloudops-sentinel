@@ -375,7 +375,7 @@ SQLite is used for local/demo persistence. For production deployment, PostgreSQL
 
 ---
 
-## 11. Recommended YouTube Demo Flow
+## 11. Example Usage Scenarios
 
 ### Demo A: Private Knowledge Base Retrieval
 
